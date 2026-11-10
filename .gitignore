@@ -29,3 +29,5 @@ test_connection_failure.py
 # Local database backup archive
 database.zip
 
+# Database backup files
+airport_management_backup.sql
