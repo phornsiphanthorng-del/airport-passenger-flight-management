@@ -317,7 +317,7 @@ class AirportManagementApp(ctk.CTk):
 
         ctk.CTkLabel(
             profile,
-            text="Admin",
+            text="Phorn Siphanthorng",
             text_color=TEXT,
             font=ctk.CTkFont(
                 size=13,
@@ -613,7 +613,7 @@ class AirportManagementApp(ctk.CTk):
 
         ctk.CTkLabel(
             left_header,
-            text="Welcome, Admin",
+            text="Welcome, Phorn Siphanthorng",
             text_color=TEXT,
             font=ctk.CTkFont(size=27, weight="bold")
         ).pack(anchor="w")
